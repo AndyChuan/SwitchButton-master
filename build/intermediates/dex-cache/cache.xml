@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\chengchuancun\Desktop\code\SwitchButton-master\sample\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\chengchuancun\Desktop\code\SwitchButton-master\sample\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_76a6a075895025e7128d7ae0c22c54588191562c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chengchuancun\Desktop\code\SwitchButton-master\sample\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\chengchuancun\Desktop\code\SwitchButton-master\sample\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_e4e099e9ca7a1f32b141ae1adbd9c21f8181be3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chengchuancun\Desktop\code\SwitchButton-master\sample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\chengchuancun\Desktop\code\SwitchButton-master\sample\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_45e299f3d433822b34b2dfe8fac413bc3ddbdcba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chengchuancun\Desktop\code\SwitchButton-master\sample\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="42531c497058e9d11ce4702a002739225f73c0ad">
+        <dex dex="C:\Users\chengchuancun\Desktop\code\SwitchButton-master\sample\build\intermediates\pre-dexed\debug\instant-run-bootstrap_996712fa69fd34b19de50720e36dd95dcbfc7fa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chengchuancun\Desktop\code\SwitchButton-master\sample\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\chengchuancun\Desktop\code\SwitchButton-master\sample\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_50f103dedd70931efe8008e16eb15e61e7313a74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chengchuancun\Desktop\code\SwitchButton-master\sample\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\chengchuancun\Desktop\code\SwitchButton-master\sample\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_b381128a29d9c769820d0b7a6c37120d9f927b4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chengchuancun\Desktop\code\SwitchButton-master\sample\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="147b094d5e155fd55345bfff368028c8ef30a552">
+        <dex dex="C:\Users\chengchuancun\Desktop\code\SwitchButton-master\sample\build\intermediates\pre-dexed\debug\instant-run_5c0f87c5a507efc48fbb6ec7c6b068d900aa0a97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Program\adt-bundle-windows-x86_64-20140321\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\chengchuancun\Desktop\code\SwitchButton-master\sample\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_5204552830fde0574ec64b279ea568142888adae.jar" />
+    </item>
+
+</items>
